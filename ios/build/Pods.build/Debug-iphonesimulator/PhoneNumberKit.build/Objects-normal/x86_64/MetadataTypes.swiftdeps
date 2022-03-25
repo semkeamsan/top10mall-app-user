@@ -1,0 +1,211 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MetadataTerritory"
+- "MetadataPhoneNumberDesc"
+- "MetadataPossibleLengths"
+- "MetadataPhoneNumberFormat"
+- "PhoneNumberMetadata"
+provides-nominal:
+- "14PhoneNumberKit17MetadataTerritoryV"
+- "14PhoneNumberKit08MetadataaB4DescV"
+- "14PhoneNumberKit23MetadataPossibleLengthsV"
+- "14PhoneNumberKit08MetadataaB6FormatV"
+- "14PhoneNumberKit0aB8MetadataV"
+provides-member:
+- ["14PhoneNumberKit17MetadataTerritoryV", ""]
+- ["14PhoneNumberKit08MetadataaB4DescV", ""]
+- ["14PhoneNumberKit23MetadataPossibleLengthsV", ""]
+- ["14PhoneNumberKit08MetadataaB6FormatV", ""]
+- ["14PhoneNumberKit0aB8MetadataV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Bool"
+- "Decodable"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "MetadataPhoneNumberDesc"
+- "MetadataPhoneNumberFormat"
+- "MetadataPossibleLengths"
+- "MetadataTerritory"
+- "PhoneNumberMetadata"
+- "String"
+- !private "StringLiteralType"
+- "UInt64"
+- !private "~="
+depends-member:
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["Se", ""]
+- !private ["Se", "exampleNumber"]
+- ["Se", "init"]
+- !private ["Se", "localOnly"]
+- !private ["Se", "national"]
+- !private ["Se", "nationalNumberPattern"]
+- !private ["Se", "possibleLengths"]
+- !private ["Se", "possibleNumberPattern"]
+- !private ["s7DecoderP", "container"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "stringValue"]
+- ["SH", "=="]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- ["14PhoneNumberKit08MetadataaB4DescV", "CodingKeys"]
+- ["14PhoneNumberKit08MetadataaB4DescV", "MetadataPossibleLengths"]
+- ["14PhoneNumberKit08MetadataaB4DescV", "String"]
+- ["14PhoneNumberKit08MetadataaB4DescV", ""]
+- ["14PhoneNumberKit08MetadataaB4DescV", "exampleNumber"]
+- ["14PhoneNumberKit08MetadataaB4DescV", "init"]
+- ["14PhoneNumberKit08MetadataaB4DescV", "nationalNumberPattern"]
+- ["14PhoneNumberKit08MetadataaB4DescV", "possibleLengths"]
+- ["14PhoneNumberKit08MetadataaB4DescV", "possibleNumberPattern"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "Bool"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "String"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", ""]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "domesticCarrierCodeFormattingRule"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "format"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "init"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "intlFormat"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "leadingDigitsPatterns"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "nationalPrefixFormattingRule"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "nationalPrefixOptionalWhenFormatting"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "pattern"]
+- ["14PhoneNumberKit23MetadataPossibleLengthsV", "CodingKeys"]
+- ["14PhoneNumberKit23MetadataPossibleLengthsV", "String"]
+- ["14PhoneNumberKit23MetadataPossibleLengthsV", ""]
+- ["14PhoneNumberKit23MetadataPossibleLengthsV", "init"]
+- ["14PhoneNumberKit23MetadataPossibleLengthsV", "localOnly"]
+- ["14PhoneNumberKit23MetadataPossibleLengthsV", "national"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "Bool"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "MetadataPhoneNumberDesc"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "MetadataPhoneNumberFormat"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "String"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "UInt64"]
+- ["14PhoneNumberKit17MetadataTerritoryV", ""]
+- ["14PhoneNumberKit17MetadataTerritoryV", "codeID"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "countryCode"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "emergency"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "fixedLine"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "generalDesc"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "init"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "internationalPrefix"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "leadingDigits"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "mainCountryForCode"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "mobile"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefix"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefixForParsing"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefixFormattingRule"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefixTransformRule"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "numberFormats"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "pager"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "personalNumber"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "preferredExtnPrefix"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "premiumRate"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "sharedCost"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "tollFree"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "uan"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "voicemail"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "voip"]
+- ["14PhoneNumberKit0aB8MetadataV", "MetadataTerritory"]
+- ["14PhoneNumberKit0aB8MetadataV", ""]
+- ["14PhoneNumberKit0aB8MetadataV", "init"]
+- ["14PhoneNumberKit0aB8MetadataV", "territories"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "s9CodingKeyP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- "14PhoneNumberKit08MetadataaB4DescV"
+- "14PhoneNumberKit08MetadataaB6FormatV"
+- "14PhoneNumberKit23MetadataPossibleLengthsV"
+- "14PhoneNumberKit17MetadataTerritoryV"
+- "14PhoneNumberKit0aB8MetadataV"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/PhoneNumberKit/PhoneNumberKit-umbrella.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/PhoneNumberKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0cbc572645e2135ca2bf85cded9271dc"

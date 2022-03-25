@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "3503d04fd1efbe62360ed4f6f20e8fbe"
+build_time: [1647665502, 318477000]
+inputs:
+  "/Users/macobuntheoun/development/flutter/.pub-cache/hosted/pub.dartlang.org/phone_number-0.12.0+1/ios/Classes/SwiftPhoneNumberPlugin.swift": [1647664820, 125188894]

@@ -1,0 +1,367 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So16FBSDKAccessTokenC", ""]
+- ["So16FBSDKAccessTokenC", "permissions"]
+- ["So16FBSDKAccessTokenC", "declinedPermissions"]
+- ["So16FBSDKAccessTokenC", "expiredPermissions"]
+- ["So16FBSDKAccessTokenC", "hasGranted"]
+provides-dynamic-lookup:
+- "declinedPermissions"
+- "expiredPermissions"
+- "hasGranted"
+- "permissions"
+depends-top-level:
+- "AccessToken"
+- "Bool"
+- "Permission"
+- "Set"
+- !private "__declinedPermissions"
+- !private "__expiredPermissions"
+- !private "__permissions"
+- !private "hasGranted"
+depends-member:
+- ["So16FBSDKAccessTokenC", "Bool"]
+- ["So16FBSDKAccessTokenC", "Permission"]
+- ["So16FBSDKAccessTokenC", "Set"]
+- ["So16FBSDKAccessTokenC", ""]
+- !private ["So16FBSDKAccessTokenC", "__declinedPermissions"]
+- !private ["So16FBSDKAccessTokenC", "__expiredPermissions"]
+- !private ["So16FBSDKAccessTokenC", "__permissions"]
+- !private ["So16FBSDKAccessTokenC", "_declinedPermissions"]
+- !private ["So16FBSDKAccessTokenC", "_expiredPermissions"]
+- !private ["So16FBSDKAccessTokenC", "_permissions"]
+- ["So16FBSDKAccessTokenC", "declinedPermissions"]
+- ["So16FBSDKAccessTokenC", "expiredPermissions"]
+- ["So16FBSDKAccessTokenC", "hasGranted"]
+- ["So16FBSDKAccessTokenC", "permissions"]
+- !private ["s7CVarArgP", "Permission"]
+- !private ["s7CVarArgP", "Set"]
+- !private ["s7CVarArgP", "__declinedPermissions"]
+- !private ["s7CVarArgP", "__expiredPermissions"]
+- !private ["s7CVarArgP", "__permissions"]
+- !private ["s7CVarArgP", "_declinedPermissions"]
+- !private ["s7CVarArgP", "_expiredPermissions"]
+- !private ["s7CVarArgP", "_permissions"]
+- !private ["s7CVarArgP", "hasGranted"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "map"]
+- !private ["Sl", "init"]
+- !private ["Sl", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "Permission"]
+- !private ["s28CustomDebugStringConvertibleP", "Set"]
+- !private ["s28CustomDebugStringConvertibleP", "__declinedPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "__expiredPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "__permissions"]
+- !private ["s28CustomDebugStringConvertibleP", "_declinedPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "_expiredPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "_permissions"]
+- !private ["s28CustomDebugStringConvertibleP", "hasGranted"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "Permission"]
+- !private ["s23CustomStringConvertibleP", "Set"]
+- !private ["s23CustomStringConvertibleP", "__declinedPermissions"]
+- !private ["s23CustomStringConvertibleP", "__expiredPermissions"]
+- !private ["s23CustomStringConvertibleP", "__permissions"]
+- !private ["s23CustomStringConvertibleP", "_declinedPermissions"]
+- !private ["s23CustomStringConvertibleP", "_expiredPermissions"]
+- !private ["s23CustomStringConvertibleP", "_permissions"]
+- !private ["s23CustomStringConvertibleP", "hasGranted"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SQ", "Permission"]
+- !private ["SQ", "Set"]
+- !private ["SQ", ""]
+- !private ["SQ", "__declinedPermissions"]
+- !private ["SQ", "__expiredPermissions"]
+- !private ["SQ", "__permissions"]
+- !private ["SQ", "_declinedPermissions"]
+- !private ["SQ", "_expiredPermissions"]
+- !private ["SQ", "_permissions"]
+- !private ["SQ", "hasGranted"]
+- !private ["SQ", "init"]
+- !private ["SQ", "map"]
+- !private ["SQ", "name"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "StringLiteralType"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "name"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "name"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "name"]
+- !private ["SH", "Permission"]
+- !private ["SH", "Set"]
+- !private ["SH", "__declinedPermissions"]
+- !private ["SH", "__expiredPermissions"]
+- !private ["SH", "__permissions"]
+- !private ["SH", "_declinedPermissions"]
+- !private ["SH", "_expiredPermissions"]
+- !private ["SH", "_permissions"]
+- !private ["SH", "hasGranted"]
+- !private ["SH", "init"]
+- !private ["SH", "map"]
+- !private ["SH", "name"]
+- ["So8NSCodingP", "Bool"]
+- ["So8NSCodingP", "Permission"]
+- ["So8NSCodingP", "Set"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "__declinedPermissions"]
+- !private ["So8NSCodingP", "__expiredPermissions"]
+- !private ["So8NSCodingP", "__permissions"]
+- !private ["So8NSCodingP", "_declinedPermissions"]
+- !private ["So8NSCodingP", "_expiredPermissions"]
+- !private ["So8NSCodingP", "_permissions"]
+- ["So8NSCodingP", "declinedPermissions"]
+- ["So8NSCodingP", "expiredPermissions"]
+- ["So8NSCodingP", "hasGranted"]
+- ["So8NSCodingP", "permissions"]
+- ["So9NSCopyingP", "Bool"]
+- ["So9NSCopyingP", "Permission"]
+- ["So9NSCopyingP", "Set"]
+- !private ["So9NSCopyingP", "__declinedPermissions"]
+- !private ["So9NSCopyingP", "__expiredPermissions"]
+- !private ["So9NSCopyingP", "__permissions"]
+- !private ["So9NSCopyingP", "_declinedPermissions"]
+- !private ["So9NSCopyingP", "_expiredPermissions"]
+- !private ["So9NSCopyingP", "_permissions"]
+- ["So9NSCopyingP", "declinedPermissions"]
+- ["So9NSCopyingP", "expiredPermissions"]
+- ["So9NSCopyingP", "hasGranted"]
+- ["So9NSCopyingP", "permissions"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Permission"]
+- ["So8NSObjectC", "Set"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "__declinedPermissions"]
+- !private ["So8NSObjectC", "__expiredPermissions"]
+- !private ["So8NSObjectC", "__permissions"]
+- !private ["So8NSObjectC", "_declinedPermissions"]
+- !private ["So8NSObjectC", "_expiredPermissions"]
+- !private ["So8NSObjectC", "_permissions"]
+- ["So8NSObjectC", "declinedPermissions"]
+- ["So8NSObjectC", "expiredPermissions"]
+- ["So8NSObjectC", "hasGranted"]
+- ["So8NSObjectC", "permissions"]
+- ["So8NSObjectP", "Bool"]
+- ["So8NSObjectP", "Permission"]
+- ["So8NSObjectP", "Set"]
+- !private ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "__declinedPermissions"]
+- !private ["So8NSObjectP", "__expiredPermissions"]
+- !private ["So8NSObjectP", "__permissions"]
+- !private ["So8NSObjectP", "_declinedPermissions"]
+- !private ["So8NSObjectP", "_expiredPermissions"]
+- !private ["So8NSObjectP", "_permissions"]
+- ["So8NSObjectP", "declinedPermissions"]
+- ["So8NSObjectP", "expiredPermissions"]
+- ["So8NSObjectP", "hasGranted"]
+- ["So8NSObjectP", "permissions"]
+- ["So14NSSecureCodingP", "Bool"]
+- ["So14NSSecureCodingP", "Permission"]
+- ["So14NSSecureCodingP", "Set"]
+- !private ["So14NSSecureCodingP", "__declinedPermissions"]
+- !private ["So14NSSecureCodingP", "__expiredPermissions"]
+- !private ["So14NSSecureCodingP", "__permissions"]
+- !private ["So14NSSecureCodingP", "_declinedPermissions"]
+- !private ["So14NSSecureCodingP", "_expiredPermissions"]
+- !private ["So14NSSecureCodingP", "_permissions"]
+- ["So14NSSecureCodingP", "declinedPermissions"]
+- ["So14NSSecureCodingP", "expiredPermissions"]
+- ["So14NSSecureCodingP", "hasGranted"]
+- ["So14NSSecureCodingP", "permissions"]
+- ["12FBSDKCoreKit10PermissionO", ""]
+- !private ["12FBSDKCoreKit10PermissionO", "init"]
+- !private ["12FBSDKCoreKit10PermissionO", "name"]
+- !private ["ST", ""]
+- !private ["ST", "init"]
+- !private ["ST", "map"]
+- !private ["Sh", "init"]
+- !private ["Sh", "map"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["s10SetAlgebraP", "map"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Permission"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Set"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "__declinedPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "__expiredPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "__permissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_declinedPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_expiredPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_permissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasGranted"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Permission"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Set"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "__declinedPermissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "__expiredPermissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "__permissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_declinedPermissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_expiredPermissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_permissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hasGranted"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+depends-nominal:
+- "So16FBSDKAccessTokenC"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "12FBSDKCoreKit10PermissionO"
+- !private "ST"
+- !private "Sh"
+- !private "s10SetAlgebraP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/WebKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPI.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURL.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestHTTPMethod.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKUserAgeRange.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKProfile.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventParameterName.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventName.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIProtocolType.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKFeature.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceViewControllerBase.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIResponse.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKApplicationDelegate.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnectionProviding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestProviding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWindowFinding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettingsLogging.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKTokenCaching.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKButtonImpressionTracking.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKFeatureChecking.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURLOpening.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIRequestOpening.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnection+GraphRequestConnecting.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnecting.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolving.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKApplicationObserving.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKMutableCopying.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebDialog.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLink.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettingsProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtilityProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKRandom.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAuthenticationToken.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAccessToken.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKIcon.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLocation.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkNavigation.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKShareDialogConfiguration.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnection.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKImpressionTrackingButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDynamicSocialFrameworkLoader.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKServerConfigurationProvider.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolverRequestBuilder.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLogger.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtility+AppAvailabilityChecker.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppAvailabilityChecker.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPI+URLOpener.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURLOpener.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolver.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebViewAppLinkResolver.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLoggingBehavior.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventsFlushBehavior.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKError.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestFlags.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettings.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAccessTokenProtocols.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAuthenticationTokenClaims.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKCoreKitVersions.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKConstants.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEvents.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAdvertisingTrackingStatus.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkTarget.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKCoreKit.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestDataAttachment.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKMeasurementEvent.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIRequest.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequest.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKProfilePictureView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebDialogView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceDialogView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnectionFactory.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestFactory.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKUtility.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkUtility.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtility.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d972ae347048ea391827ef0de5d07a7f"

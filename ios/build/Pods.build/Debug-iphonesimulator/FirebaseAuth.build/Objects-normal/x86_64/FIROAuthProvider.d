@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/AuthProvider/OAuth/FIROAuthProvider.m \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthProvider.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFederatedAuthProvider.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthUIDelegate.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFacebookAuthProvider.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthCredential.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthGlobalWorkQueue.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/Interop/Auth/Public/FIRAuthInterop.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/AuthProvider/OAuth/FIROAuthCredential_Internal.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthErrorUtils.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthInternalErrors.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthWebUtils.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthURLPresenter.h

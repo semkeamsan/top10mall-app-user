@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/macobuntheoun/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.1.0/ios/Classes/FLTGoogleSignInPlugin.m \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/google_sign_in.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target\ Support\ Files/google_sign_in/google_sign_in-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/macobuntheoun/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.1.0/ios/Classes/FLTGoogleSignInPlugin.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
+  /Users/macobuntheoun/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.1.0/ios/Classes/FLTGoogleSignInPlugin_Test.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignInButton.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignIn.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDProfileData.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDGoogleUser.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDAuthentication.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h

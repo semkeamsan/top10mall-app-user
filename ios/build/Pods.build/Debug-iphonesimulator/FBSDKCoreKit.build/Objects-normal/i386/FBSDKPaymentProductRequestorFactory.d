@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKPaymentProductRequestorFactory.m \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target\ Support\ Files/FBSDKCoreKit/FBSDKCoreKit-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKPaymentProductRequestorFactory.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKPaymentProductRequestorCreating.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKAppEvents+EventLogging.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEvents.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequest.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestProtocol.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestHTTPMethod.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestFlags.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnection.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventParameterName.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventName.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventsFlushBehavior.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKEventLogging.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKAppStoreReceiptProviding.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKGateKeeperManager.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKGateKeeperManaging.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKLoggerFactory.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKLoggingCreating.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLoggingBehavior.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKLogging.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKPaymentProductRequestor.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKProductRequestFactory.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKProductsRequestProtocols.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSettings+Internal.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAdvertisingTrackingStatus.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettings.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettingsProtocol.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/NSUserDefaults+FBSDKDataPersisting.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKDataPersisting.h

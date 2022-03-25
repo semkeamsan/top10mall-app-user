@@ -1,0 +1,819 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+provides-member:
+- ["14PhoneNumberKit17MetadataTerritoryV", ""]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", ""]
+- ["14PhoneNumberKit08MetadataaB6FormatV", ""]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", ""]
+- ["14PhoneNumberKit0aB8MetadataV", ""]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", ""]
+- ["14PhoneNumberKit17MetadataTerritoryV", "CodingKeys"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "init"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "CodingKeys"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "init"]
+- ["14PhoneNumberKit0aB8MetadataV", "CodingKeys"]
+- ["14PhoneNumberKit0aB8MetadataV", "init"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "&&"
+- "=="
+- !private "??"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CodingKey"
+- !private "CodingKeys"
+- "Collection"
+- "Decodable"
+- "Decoder"
+- "Element"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "K"
+- "KeyedDecodingContainer"
+- !private "MetadataPhoneNumberDesc"
+- "MetadataPhoneNumberFormat"
+- "MetadataTerritory"
+- "PhoneNumberMetadata"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- !private "UInt64"
+- !private "_findStringSwitchCase"
+- !private "codeID"
+- !private "countryCode"
+- !private "domesticCarrierCodeFormattingRule"
+- !private "emergency"
+- !private "fixedLine"
+- !private "format"
+- !private "generalDesc"
+- !private "internationalPrefix"
+- !private "intlFormat"
+- !private "leadingDigits"
+- !private "leadingDigitsPatterns"
+- !private "mainCountryForCode"
+- !private "mobile"
+- !private "nationalPrefix"
+- !private "nationalPrefixForParsing"
+- !private "nationalPrefixFormattingRule"
+- !private "nationalPrefixOptionalWhenFormatting"
+- !private "nationalPrefixTransformRule"
+- !private "numberFormats"
+- !private "pager"
+- !private "pattern"
+- !private "personalNumber"
+- !private "preferredExtnPrefix"
+- !private "premiumRate"
+- !private "sharedCost"
+- !private "territories"
+- !private "tollFree"
+- !private "uan"
+- !private "voicemail"
+- !private "voip"
+- !private "~="
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "init"]
+- !private ["Sa", "withDefaultNationalPrefixFormattingRule"]
+- !private ["SK", ""]
+- !private ["SK", "init"]
+- !private ["SK", "withDefaultNationalPrefixFormattingRule"]
+- !private ["Sz", ""]
+- !private ["Sz", "init"]
+- !private ["Sb", "init"]
+- !private ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "withDefaultNationalPrefixFormattingRule"]
+- ["s9CodingKeyP", "=="]
+- ["s9CodingKeyP", "Default_RawValue"]
+- ["s9CodingKeyP", "RawValue"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- ["s9CodingKeyP", "_rawHashValue"]
+- !private ["s9CodingKeyP", "availableFormats"]
+- !private ["s9CodingKeyP", "codeID"]
+- !private ["s9CodingKeyP", "countryCode"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- !private ["s9CodingKeyP", "domesticCarrierCodeFormattingRule"]
+- !private ["s9CodingKeyP", "emergency"]
+- !private ["s9CodingKeyP", "findStringSwitchCase"]
+- !private ["s9CodingKeyP", "fixedLine"]
+- !private ["s9CodingKeyP", "format"]
+- !private ["s9CodingKeyP", "generalDesc"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- !private ["s9CodingKeyP", "internationalPrefix"]
+- !private ["s9CodingKeyP", "intlFormat"]
+- !private ["s9CodingKeyP", "leadingDigits"]
+- !private ["s9CodingKeyP", "leadingDigitsPatterns"]
+- !private ["s9CodingKeyP", "mainCountryForCode"]
+- !private ["s9CodingKeyP", "mobile"]
+- !private ["s9CodingKeyP", "nationalPrefix"]
+- !private ["s9CodingKeyP", "nationalPrefixForParsing"]
+- !private ["s9CodingKeyP", "nationalPrefixFormattingRule"]
+- !private ["s9CodingKeyP", "nationalPrefixOptionalWhenFormatting"]
+- !private ["s9CodingKeyP", "nationalPrefixTransformRule"]
+- !private ["s9CodingKeyP", "numberFormats"]
+- !private ["s9CodingKeyP", "pager"]
+- !private ["s9CodingKeyP", "pattern"]
+- !private ["s9CodingKeyP", "personalNumber"]
+- !private ["s9CodingKeyP", "phoneNumberMetadata"]
+- !private ["s9CodingKeyP", "preferredExtnPrefix"]
+- !private ["s9CodingKeyP", "premiumRate"]
+- ["s9CodingKeyP", "rawValue"]
+- !private ["s9CodingKeyP", "sharedCost"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["s9CodingKeyP", "territories"]
+- !private ["s9CodingKeyP", "territory"]
+- !private ["s9CodingKeyP", "tollFree"]
+- !private ["s9CodingKeyP", "uan"]
+- !private ["s9CodingKeyP", "voicemail"]
+- !private ["s9CodingKeyP", "voip"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "=="]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "=="]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "=="]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "Default_RawValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "Default_RawValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "Default_RawValue"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "RawValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "RawValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "RawValue"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", ""]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", ""]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", ""]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "_Default_RawValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "_Default_RawValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "_Default_RawValue"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "_findStringSwitchCase"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "_rawHashValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "_rawHashValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "_rawHashValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "availableFormats"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "codeID"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "countryCode"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "debugDescription"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "debugDescription"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "debugDescription"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "description"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "description"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "description"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "domesticCarrierCodeFormattingRule"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "emergency"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "findStringSwitchCase"]
+- !private ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "findStringSwitchCase"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "findStringSwitchCase"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "fixedLine"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "format"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "generalDesc"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "hash"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "hash"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "hash"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "hashValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "hashValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "hashValue"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "init"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "init"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "init"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "intValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "intValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "intValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "internationalPrefix"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "intlFormat"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "leadingDigits"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "leadingDigitsPatterns"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "mainCountryForCode"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "mobile"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "nationalPrefix"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "nationalPrefixForParsing"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "nationalPrefixFormattingRule"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "nationalPrefixFormattingRule"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "nationalPrefixOptionalWhenFormatting"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "nationalPrefixTransformRule"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "numberFormats"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "pager"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "pattern"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "personalNumber"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "phoneNumberMetadata"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "preferredExtnPrefix"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "premiumRate"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "rawValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "rawValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "rawValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "sharedCost"]
+- ["14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO", "stringValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "stringValue"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "stringValue"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "territories"]
+- ["14PhoneNumberKit0aB8MetadataV10CodingKeysO", "territory"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "tollFree"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "uan"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "voicemail"]
+- ["14PhoneNumberKit17MetadataTerritoryV10CodingKeysO", "voip"]
+- ["Sl", "Element"]
+- ["Sl", "MetadataPhoneNumberFormat"]
+- ["Sl", "String"]
+- ["Sl", ""]
+- !private ["Sl", "init"]
+- !private ["Sl", "map"]
+- !private ["Sl", "withDefaultNationalPrefixFormattingRule"]
+- !private ["SL", ""]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "withDefaultNationalPrefixFormattingRule"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", "Default_RawValue"]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "availableFormats"]
+- !private ["s28CustomDebugStringConvertibleP", "codeID"]
+- !private ["s28CustomDebugStringConvertibleP", "countryCode"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "domesticCarrierCodeFormattingRule"]
+- !private ["s28CustomDebugStringConvertibleP", "emergency"]
+- !private ["s28CustomDebugStringConvertibleP", "findStringSwitchCase"]
+- !private ["s28CustomDebugStringConvertibleP", "fixedLine"]
+- !private ["s28CustomDebugStringConvertibleP", "format"]
+- !private ["s28CustomDebugStringConvertibleP", "generalDesc"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "internationalPrefix"]
+- !private ["s28CustomDebugStringConvertibleP", "intlFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "leadingDigits"]
+- !private ["s28CustomDebugStringConvertibleP", "leadingDigitsPatterns"]
+- !private ["s28CustomDebugStringConvertibleP", "mainCountryForCode"]
+- !private ["s28CustomDebugStringConvertibleP", "mobile"]
+- !private ["s28CustomDebugStringConvertibleP", "nationalPrefix"]
+- !private ["s28CustomDebugStringConvertibleP", "nationalPrefixForParsing"]
+- !private ["s28CustomDebugStringConvertibleP", "nationalPrefixFormattingRule"]
+- !private ["s28CustomDebugStringConvertibleP", "nationalPrefixOptionalWhenFormatting"]
+- !private ["s28CustomDebugStringConvertibleP", "nationalPrefixTransformRule"]
+- !private ["s28CustomDebugStringConvertibleP", "numberFormats"]
+- !private ["s28CustomDebugStringConvertibleP", "pager"]
+- !private ["s28CustomDebugStringConvertibleP", "pattern"]
+- !private ["s28CustomDebugStringConvertibleP", "personalNumber"]
+- !private ["s28CustomDebugStringConvertibleP", "phoneNumberMetadata"]
+- !private ["s28CustomDebugStringConvertibleP", "preferredExtnPrefix"]
+- !private ["s28CustomDebugStringConvertibleP", "premiumRate"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "sharedCost"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "territories"]
+- !private ["s28CustomDebugStringConvertibleP", "territory"]
+- !private ["s28CustomDebugStringConvertibleP", "tollFree"]
+- !private ["s28CustomDebugStringConvertibleP", "uan"]
+- !private ["s28CustomDebugStringConvertibleP", "voicemail"]
+- !private ["s28CustomDebugStringConvertibleP", "voip"]
+- !private ["s28CustomDebugStringConvertibleP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "withDefaultNationalPrefixFormattingRule"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", "Default_RawValue"]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- !private ["s23CustomStringConvertibleP", "availableFormats"]
+- !private ["s23CustomStringConvertibleP", "codeID"]
+- !private ["s23CustomStringConvertibleP", "countryCode"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "domesticCarrierCodeFormattingRule"]
+- !private ["s23CustomStringConvertibleP", "emergency"]
+- !private ["s23CustomStringConvertibleP", "findStringSwitchCase"]
+- !private ["s23CustomStringConvertibleP", "fixedLine"]
+- !private ["s23CustomStringConvertibleP", "format"]
+- !private ["s23CustomStringConvertibleP", "generalDesc"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "internationalPrefix"]
+- !private ["s23CustomStringConvertibleP", "intlFormat"]
+- !private ["s23CustomStringConvertibleP", "leadingDigits"]
+- !private ["s23CustomStringConvertibleP", "leadingDigitsPatterns"]
+- !private ["s23CustomStringConvertibleP", "mainCountryForCode"]
+- !private ["s23CustomStringConvertibleP", "mobile"]
+- !private ["s23CustomStringConvertibleP", "nationalPrefix"]
+- !private ["s23CustomStringConvertibleP", "nationalPrefixForParsing"]
+- !private ["s23CustomStringConvertibleP", "nationalPrefixFormattingRule"]
+- !private ["s23CustomStringConvertibleP", "nationalPrefixOptionalWhenFormatting"]
+- !private ["s23CustomStringConvertibleP", "nationalPrefixTransformRule"]
+- !private ["s23CustomStringConvertibleP", "numberFormats"]
+- !private ["s23CustomStringConvertibleP", "pager"]
+- !private ["s23CustomStringConvertibleP", "pattern"]
+- !private ["s23CustomStringConvertibleP", "personalNumber"]
+- !private ["s23CustomStringConvertibleP", "phoneNumberMetadata"]
+- !private ["s23CustomStringConvertibleP", "preferredExtnPrefix"]
+- !private ["s23CustomStringConvertibleP", "premiumRate"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "sharedCost"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "territories"]
+- !private ["s23CustomStringConvertibleP", "territory"]
+- !private ["s23CustomStringConvertibleP", "tollFree"]
+- !private ["s23CustomStringConvertibleP", "uan"]
+- !private ["s23CustomStringConvertibleP", "voicemail"]
+- !private ["s23CustomStringConvertibleP", "voip"]
+- !private ["s23CustomStringConvertibleP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["Se", "CodingKeys"]
+- !private ["Se", "MetadataPhoneNumberDesc"]
+- !private ["Se", "MetadataPhoneNumberFormat"]
+- !private ["Se", "MetadataTerritory"]
+- !private ["Se", "String"]
+- !private ["Se", "UInt64"]
+- !private ["Se", "_findStringSwitchCase"]
+- !private ["Se", "codeID"]
+- !private ["Se", "countryCode"]
+- !private ["Se", "domesticCarrierCodeFormattingRule"]
+- !private ["Se", "emergency"]
+- !private ["Se", "findStringSwitchCase"]
+- !private ["Se", "fixedLine"]
+- !private ["Se", "format"]
+- !private ["Se", "generalDesc"]
+- !private ["Se", "init"]
+- !private ["Se", "internationalPrefix"]
+- !private ["Se", "intlFormat"]
+- !private ["Se", "leadingDigits"]
+- !private ["Se", "leadingDigitsPatterns"]
+- !private ["Se", "mainCountryForCode"]
+- !private ["Se", "mobile"]
+- !private ["Se", "nationalPrefix"]
+- !private ["Se", "nationalPrefixForParsing"]
+- !private ["Se", "nationalPrefixFormattingRule"]
+- !private ["Se", "nationalPrefixOptionalWhenFormatting"]
+- !private ["Se", "nationalPrefixTransformRule"]
+- !private ["Se", "numberFormats"]
+- !private ["Se", "pager"]
+- !private ["Se", "pattern"]
+- !private ["Se", "personalNumber"]
+- !private ["Se", "preferredExtnPrefix"]
+- !private ["Se", "premiumRate"]
+- !private ["Se", "sharedCost"]
+- !private ["Se", "territories"]
+- !private ["Se", "tollFree"]
+- !private ["Se", "uan"]
+- !private ["Se", "voicemail"]
+- !private ["Se", "voip"]
+- !private ["Se", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s7DecoderP", "container"]
+- !private ["SE", "init"]
+- !private ["SE", "withDefaultNationalPrefixFormattingRule"]
+- ["SQ", "=="]
+- ["SQ", "Default_RawValue"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "availableFormats"]
+- !private ["SQ", "codeID"]
+- !private ["SQ", "countryCode"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- !private ["SQ", "domesticCarrierCodeFormattingRule"]
+- !private ["SQ", "emergency"]
+- !private ["SQ", "findStringSwitchCase"]
+- !private ["SQ", "fixedLine"]
+- !private ["SQ", "format"]
+- !private ["SQ", "generalDesc"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- !private ["SQ", "internationalPrefix"]
+- !private ["SQ", "intlFormat"]
+- !private ["SQ", "leadingDigits"]
+- !private ["SQ", "leadingDigitsPatterns"]
+- !private ["SQ", "mainCountryForCode"]
+- !private ["SQ", "mobile"]
+- !private ["SQ", "nationalPrefix"]
+- !private ["SQ", "nationalPrefixForParsing"]
+- !private ["SQ", "nationalPrefixFormattingRule"]
+- !private ["SQ", "nationalPrefixOptionalWhenFormatting"]
+- !private ["SQ", "nationalPrefixTransformRule"]
+- !private ["SQ", "numberFormats"]
+- !private ["SQ", "pager"]
+- !private ["SQ", "pattern"]
+- !private ["SQ", "personalNumber"]
+- !private ["SQ", "phoneNumberMetadata"]
+- !private ["SQ", "preferredExtnPrefix"]
+- !private ["SQ", "premiumRate"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "sharedCost"]
+- ["SQ", "stringValue"]
+- !private ["SQ", "territories"]
+- !private ["SQ", "territory"]
+- !private ["SQ", "tollFree"]
+- !private ["SQ", "uan"]
+- !private ["SQ", "voicemail"]
+- !private ["SQ", "voip"]
+- !private ["SQ", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s27ExpressibleByBooleanLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["SH", "=="]
+- ["SH", "Default_RawValue"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "availableFormats"]
+- !private ["SH", "codeID"]
+- !private ["SH", "countryCode"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- !private ["SH", "domesticCarrierCodeFormattingRule"]
+- !private ["SH", "emergency"]
+- !private ["SH", "findStringSwitchCase"]
+- !private ["SH", "fixedLine"]
+- !private ["SH", "format"]
+- !private ["SH", "generalDesc"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- !private ["SH", "internationalPrefix"]
+- !private ["SH", "intlFormat"]
+- !private ["SH", "leadingDigits"]
+- !private ["SH", "leadingDigitsPatterns"]
+- !private ["SH", "mainCountryForCode"]
+- !private ["SH", "mobile"]
+- !private ["SH", "nationalPrefix"]
+- !private ["SH", "nationalPrefixForParsing"]
+- !private ["SH", "nationalPrefixFormattingRule"]
+- !private ["SH", "nationalPrefixOptionalWhenFormatting"]
+- !private ["SH", "nationalPrefixTransformRule"]
+- !private ["SH", "numberFormats"]
+- !private ["SH", "pager"]
+- !private ["SH", "pattern"]
+- !private ["SH", "personalNumber"]
+- !private ["SH", "phoneNumberMetadata"]
+- !private ["SH", "preferredExtnPrefix"]
+- !private ["SH", "premiumRate"]
+- ["SH", "rawValue"]
+- !private ["SH", "sharedCost"]
+- ["SH", "stringValue"]
+- !private ["SH", "territories"]
+- !private ["SH", "territory"]
+- !private ["SH", "tollFree"]
+- !private ["SH", "uan"]
+- !private ["SH", "voicemail"]
+- !private ["SH", "voip"]
+- !private ["SH", "withDefaultNationalPrefixFormattingRule"]
+- ["s22KeyedDecodingContainerV", "Bool"]
+- ["s22KeyedDecodingContainerV", "CodingKey"]
+- ["s22KeyedDecodingContainerV", "Decodable"]
+- ["s22KeyedDecodingContainerV", "Key"]
+- ["s22KeyedDecodingContainerV", "KeyedDecodingContainer"]
+- !private ["s22KeyedDecodingContainerV", "String"]
+- ["s22KeyedDecodingContainerV", ""]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeArrayOrObject"]
+- !private ["s22KeyedDecodingContainerV", "decodeBoolString"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s22KeyedDecodingContainerV", "nestedContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "Bool"]
+- ["s30KeyedDecodingContainerProtocolP", "Key"]
+- !private ["s30KeyedDecodingContainerProtocolP", "String"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeArrayOrObject"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeBoolString"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "nestedContainer"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["14PhoneNumberKit08MetadataaB4DescV", ""]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "CodingKey"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "CodingKeys"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "Decoder"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "String"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", ""]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "_findStringSwitchCase"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "domesticCarrierCodeFormattingRule"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "findStringSwitchCase"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "format"]
+- ["14PhoneNumberKit08MetadataaB6FormatV", "init"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "intlFormat"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "leadingDigitsPatterns"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "nationalPrefixFormattingRule"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "nationalPrefixOptionalWhenFormatting"]
+- !private ["14PhoneNumberKit08MetadataaB6FormatV", "pattern"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "CodingKey"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "CodingKeys"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "Decoder"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "MetadataPhoneNumberDesc"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "MetadataPhoneNumberFormat"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "String"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "UInt64"]
+- ["14PhoneNumberKit17MetadataTerritoryV", ""]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "_findStringSwitchCase"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "codeID"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "countryCode"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "emergency"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "findStringSwitchCase"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "fixedLine"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "generalDesc"]
+- ["14PhoneNumberKit17MetadataTerritoryV", "init"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "internationalPrefix"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "leadingDigits"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "mainCountryForCode"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "mobile"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefix"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefixForParsing"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefixFormattingRule"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "nationalPrefixTransformRule"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "numberFormats"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "pager"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "personalNumber"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "preferredExtnPrefix"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "premiumRate"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "sharedCost"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "tollFree"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "uan"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "voicemail"]
+- !private ["14PhoneNumberKit17MetadataTerritoryV", "voip"]
+- !private ["SM", ""]
+- !private ["SM", "init"]
+- !private ["SM", "withDefaultNationalPrefixFormattingRule"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "withDefaultNationalPrefixFormattingRule"]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectP", ""]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- ["14PhoneNumberKit0aB8MetadataV", "CodingKey"]
+- ["14PhoneNumberKit0aB8MetadataV", "CodingKeys"]
+- ["14PhoneNumberKit0aB8MetadataV", "Decoder"]
+- !private ["14PhoneNumberKit0aB8MetadataV", "MetadataTerritory"]
+- ["14PhoneNumberKit0aB8MetadataV", "String"]
+- ["14PhoneNumberKit0aB8MetadataV", ""]
+- !private ["14PhoneNumberKit0aB8MetadataV", "_findStringSwitchCase"]
+- !private ["14PhoneNumberKit0aB8MetadataV", "findStringSwitchCase"]
+- ["14PhoneNumberKit0aB8MetadataV", "init"]
+- !private ["14PhoneNumberKit0aB8MetadataV", "territories"]
+- !private ["Sk", ""]
+- !private ["Sk", "init"]
+- !private ["Sk", "withDefaultNationalPrefixFormattingRule"]
+- !private ["Sm", ""]
+- !private ["Sm", "init"]
+- !private ["Sm", "withDefaultNationalPrefixFormattingRule"]
+- ["SY", "=="]
+- ["SY", "Default_RawValue"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- !private ["SY", "availableFormats"]
+- !private ["SY", "codeID"]
+- !private ["SY", "countryCode"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- !private ["SY", "domesticCarrierCodeFormattingRule"]
+- !private ["SY", "emergency"]
+- !private ["SY", "findStringSwitchCase"]
+- !private ["SY", "fixedLine"]
+- !private ["SY", "format"]
+- !private ["SY", "generalDesc"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "intValue"]
+- !private ["SY", "internationalPrefix"]
+- !private ["SY", "intlFormat"]
+- !private ["SY", "leadingDigits"]
+- !private ["SY", "leadingDigitsPatterns"]
+- !private ["SY", "mainCountryForCode"]
+- !private ["SY", "mobile"]
+- !private ["SY", "nationalPrefix"]
+- !private ["SY", "nationalPrefixForParsing"]
+- !private ["SY", "nationalPrefixFormattingRule"]
+- !private ["SY", "nationalPrefixOptionalWhenFormatting"]
+- !private ["SY", "nationalPrefixTransformRule"]
+- !private ["SY", "numberFormats"]
+- !private ["SY", "pager"]
+- !private ["SY", "pattern"]
+- !private ["SY", "personalNumber"]
+- !private ["SY", "phoneNumberMetadata"]
+- !private ["SY", "preferredExtnPrefix"]
+- !private ["SY", "premiumRate"]
+- ["SY", "rawValue"]
+- !private ["SY", "sharedCost"]
+- ["SY", "stringValue"]
+- !private ["SY", "territories"]
+- !private ["SY", "territory"]
+- !private ["SY", "tollFree"]
+- !private ["SY", "uan"]
+- !private ["SY", "voicemail"]
+- !private ["SY", "voip"]
+- !private ["s10SIMDScalarP", "init"]
+- ["ST", "Element"]
+- ["ST", "MetadataPhoneNumberFormat"]
+- ["ST", "String"]
+- ["ST", ""]
+- !private ["ST", "init"]
+- !private ["ST", "map"]
+- !private ["ST", "withDefaultNationalPrefixFormattingRule"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["s6UInt64V", "init"]
+- !private ["SU", "init"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "withDefaultNationalPrefixFormattingRule"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "withDefaultNationalPrefixFormattingRule"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "Sz"
+- !private "Sb"
+- !private "s7CVarArgP"
+- "s9CodingKeyP"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- !private "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- !private "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- !private "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- !private "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- !private "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit08MetadataaB6FormatV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "14PhoneNumberKit0aB8MetadataV10CodingKeysO"
+- "14PhoneNumberKit17MetadataTerritoryV10CodingKeysO"
+- "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s7DecoderP"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- "s22KeyedDecodingContainerV"
+- "s30KeyedDecodingContainerProtocolP"
+- !private "s25LosslessStringConvertibleP"
+- !private "14PhoneNumberKit08MetadataaB4DescV"
+- "14PhoneNumberKit08MetadataaB6FormatV"
+- "14PhoneNumberKit17MetadataTerritoryV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So8NSObjectP"
+- !private "Sj"
+- "14PhoneNumberKit0aB8MetadataV"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "s10SIMDScalarP"
+- "ST"
+- !private "Sx"
+- "So18UIFocusEnvironmentP"
+- !private "s6UInt64V"
+- !private "SU"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/PhoneNumberKit/PhoneNumberKit-umbrella.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/PhoneNumberKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "14fa65fd664eaa67991c45ff418454ea"

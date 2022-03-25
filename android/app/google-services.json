@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538810392858",
+    "project_id": "kmo-user",
+    "storage_bucket": "kmo-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538810392858:android:56592ae7be0000ce54cca3",
+        "android_client_info": {
+          "package_name": "com.kmoshop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538810392858-ss217epen6kcure8fjgl1ia09fgkdfp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kmoshop.app",
+            "certificate_hash": "063c70878c7b71462d04772b205c42aa22274dfe"
+          }
+        },
+        {
+          "client_id": "538810392858-8n1edlle93q4h6uea8d4732r77vuh6qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWsSJXwsK4zdx0kGgHZk-fFcfBt3MPvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538810392858-8n1edlle93q4h6uea8d4732r77vuh6qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

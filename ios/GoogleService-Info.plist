@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>538810392858-6a2osg7jdmd965mon0jf8n4mr2dmtj5e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.538810392858-6a2osg7jdmd965mon0jf8n4mr2dmtj5e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>538810392858-belo47t5lq3iib0nfd2tceg92h4hn0t5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKtI2FCGYb64rqGwBjeBt7BZLb6G4Jv3Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>538810392858</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kmoshop.app</string>
+	<key>PROJECT_ID</key>
+	<string>kmo-user</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kmo-user.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:538810392858:ios:73265a2e6e32619a54cca3</string>
+</dict>
+</plist>

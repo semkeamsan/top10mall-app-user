@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "6a1627a875353de900aeb9deda869838"
+build_time: [1647665512, 292910000]
+inputs:
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/Sources/FacebookCore/Swift/AccessToken.swift": [1647665251, 155684157]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/Sources/FacebookCore/Imports.swift": [1647665251, 154499355]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/Sources/FacebookCore/Swift/Permission.swift": [1647665251, 155361492]

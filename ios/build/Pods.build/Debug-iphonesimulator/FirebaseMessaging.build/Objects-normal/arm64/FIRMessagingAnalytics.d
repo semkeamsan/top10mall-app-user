@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingAnalytics.m \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingAnalytics.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/Interop/Analytics/Public/FIRAnalyticsInterop.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkURLSession.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkMessageCode.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkLoggerProtocol.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkConstants.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetwork.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULMutableDictionary.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULSceneDelegateSwizzler.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULApplication.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/Interop/Analytics/Public/FIRInteropEventNames.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/Interop/Analytics/Public/FIRInteropParameterNames.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h

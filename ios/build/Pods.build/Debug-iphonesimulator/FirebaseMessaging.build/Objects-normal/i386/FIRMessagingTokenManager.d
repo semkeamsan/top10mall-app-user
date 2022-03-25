@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenManager.m \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenManager.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessaging.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseInstallations/Source/Library/Private/FirebaseInstallationsInternal.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FirebaseInstallations.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target\ Support\ Files/FirebaseInstallations/FirebaseInstallations-umbrella.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingDefines.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/NSError+FIRMessaging.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAuthKeychain.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAuthService.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinService.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingUtilities.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinPreferences.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinStore.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenDeleteOperation.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenOperation.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenFetchOperation.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenInfo.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAPNSInfo.h \
+  /Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenStore.h

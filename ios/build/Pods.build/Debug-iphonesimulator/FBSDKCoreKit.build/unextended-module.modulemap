@@ -1,0 +1,10 @@
+framework module FBSDKCoreKit {
+  umbrella header "FBSDKCoreKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FBSDKCoreKit.__Swift {
+    exclude header "FBSDKCoreKit-Swift.h"
+}

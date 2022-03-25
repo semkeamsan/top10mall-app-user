@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "3612af4cef5c2e95a459233968507060"
+build_time: [1647665457, 993477000]
+inputs:
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/Bundle+Resources.swift": [1647665429, 123554885]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/Constants.swift": [1647665429, 122794897]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/Formatter.swift": [1647665429, 125550379]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/MetadataManager.swift": [1647665429, 125725093]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/MetadataParsing.swift": [1647665429, 124242906]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/MetadataTypes.swift": [1647665429, 124080313]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/NSRegularExpression+Swift.swift": [1647665429, 125376812]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/ParseManager.swift": [1647665429, 124404783]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/PartialFormatter.swift": [1647665429, 125918304]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/PhoneNumber.swift": [1647665429, 123725694]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/PhoneNumberFormatter.swift": [1647665429, 126142569]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/PhoneNumberKit.swift": [1647665429, 126337330]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/PhoneNumberParser.swift": [1647665429, 126641132]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/PhoneNumberKit/PhoneNumberKit/RegexManager.swift": [1647665429, 123903122]

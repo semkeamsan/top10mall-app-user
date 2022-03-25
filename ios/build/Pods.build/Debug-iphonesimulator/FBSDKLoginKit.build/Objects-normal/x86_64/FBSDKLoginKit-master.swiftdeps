@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "5ad47897cbb824da21d87b7556bfdec3"
+build_time: [1647665548, 162414000]
+inputs:
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Swift/FBLoginButton.swift": [1647665274, 140053396]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Swift/LoginConfiguration.swift": [1647665274, 140244912]
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Swift/LoginManager.swift": [1647665274, 140587160]

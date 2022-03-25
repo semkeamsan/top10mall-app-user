@@ -1,0 +1,678 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SwiftFlutterFacebookAuthPlugin"
+provides-nominal:
+- "21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC"
+provides-member:
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", ""]
+provides-dynamic-lookup:
+- "application"
+- "facebookAuth"
+- "handle"
+- "register"
+depends-top-level:
+- "AnyHashable"
+- !private "ApplicationDelegate"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "FacebookAuth"
+- "FlutterMethodCall"
+- !private "FlutterMethodChannel"
+- "FlutterPlugin"
+- "FlutterPluginRegistrar"
+- "FlutterResult"
+- "NSObject"
+- "String"
+- !private "StringLiteralType"
+- "SwiftFlutterFacebookAuthPlugin"
+- "UIApplication"
+- "URL"
+depends-member:
+- !private ["So24FBSDKApplicationDelegateC", "application"]
+- !private ["So24FBSDKApplicationDelegateC", "initialize"]
+- !private ["So24FBSDKApplicationDelegateC", "shared"]
+- ["SK", ""]
+- !private ["s7CVarArgP", "ApplicationDelegate"]
+- ["s7CVarArgP", "FacebookAuth"]
+- !private ["s7CVarArgP", "FlutterMethodChannel"]
+- !private ["s7CVarArgP", "LaunchOptionsKey"]
+- ["s7CVarArgP", "OpenURLOptionsKey"]
+- !private ["s7CVarArgP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["s7CVarArgP", "UIApplication"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "application"]
+- ["s7CVarArgP", "applicationDidBecomeActive"]
+- ["s7CVarArgP", "applicationDidEnterBackground"]
+- ["s7CVarArgP", "applicationWillEnterForeground"]
+- ["s7CVarArgP", "applicationWillResignActive"]
+- ["s7CVarArgP", "applicationWillTerminate"]
+- ["s7CVarArgP", "detachFromEngine"]
+- ["s7CVarArgP", "detachFromEngineForRegistrar"]
+- !private ["s7CVarArgP", "facebookAuth"]
+- ["s7CVarArgP", "handle"]
+- ["s7CVarArgP", "handleMethodCall"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "initialize"]
+- ["s7CVarArgP", "register"]
+- ["s7CVarArgP", "registerWithRegistrar"]
+- ["s7CVarArgP", "setPluginRegistrantCallback"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "subscript"]
+- ["s7CVarArgP", "userNotificationCenter"]
+- ["Sl", ""]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "ApplicationDelegate"]
+- ["s28CustomDebugStringConvertibleP", "FacebookAuth"]
+- !private ["s28CustomDebugStringConvertibleP", "FlutterMethodChannel"]
+- !private ["s28CustomDebugStringConvertibleP", "LaunchOptionsKey"]
+- ["s28CustomDebugStringConvertibleP", "OpenURLOptionsKey"]
+- !private ["s28CustomDebugStringConvertibleP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["s28CustomDebugStringConvertibleP", "UIApplication"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "application"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidBecomeActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidEnterBackground"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillEnterForeground"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillResignActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillTerminate"]
+- ["s28CustomDebugStringConvertibleP", "detachFromEngine"]
+- ["s28CustomDebugStringConvertibleP", "detachFromEngineForRegistrar"]
+- !private ["s28CustomDebugStringConvertibleP", "facebookAuth"]
+- ["s28CustomDebugStringConvertibleP", "handle"]
+- ["s28CustomDebugStringConvertibleP", "handleMethodCall"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "initialize"]
+- ["s28CustomDebugStringConvertibleP", "register"]
+- ["s28CustomDebugStringConvertibleP", "registerWithRegistrar"]
+- ["s28CustomDebugStringConvertibleP", "setPluginRegistrantCallback"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "userNotificationCenter"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "ApplicationDelegate"]
+- ["s23CustomStringConvertibleP", "FacebookAuth"]
+- !private ["s23CustomStringConvertibleP", "FlutterMethodChannel"]
+- !private ["s23CustomStringConvertibleP", "LaunchOptionsKey"]
+- ["s23CustomStringConvertibleP", "OpenURLOptionsKey"]
+- !private ["s23CustomStringConvertibleP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["s23CustomStringConvertibleP", "UIApplication"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "application"]
+- ["s23CustomStringConvertibleP", "applicationDidBecomeActive"]
+- ["s23CustomStringConvertibleP", "applicationDidEnterBackground"]
+- ["s23CustomStringConvertibleP", "applicationWillEnterForeground"]
+- ["s23CustomStringConvertibleP", "applicationWillResignActive"]
+- ["s23CustomStringConvertibleP", "applicationWillTerminate"]
+- ["s23CustomStringConvertibleP", "detachFromEngine"]
+- ["s23CustomStringConvertibleP", "detachFromEngineForRegistrar"]
+- !private ["s23CustomStringConvertibleP", "facebookAuth"]
+- ["s23CustomStringConvertibleP", "handle"]
+- ["s23CustomStringConvertibleP", "handleMethodCall"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "initialize"]
+- ["s23CustomStringConvertibleP", "register"]
+- ["s23CustomStringConvertibleP", "registerWithRegistrar"]
+- ["s23CustomStringConvertibleP", "setPluginRegistrantCallback"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["s23CustomStringConvertibleP", "userNotificationCenter"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "ApplicationDelegate"]
+- ["SQ", "FacebookAuth"]
+- !private ["SQ", "FlutterMethodChannel"]
+- !private ["SQ", "LaunchOptionsKey"]
+- ["SQ", "OpenURLOptionsKey"]
+- !private ["SQ", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["SQ", "UIApplication"]
+- ["SQ", ""]
+- !private ["SQ", "annotation"]
+- ["SQ", "application"]
+- ["SQ", "applicationDidBecomeActive"]
+- ["SQ", "applicationDidEnterBackground"]
+- ["SQ", "applicationWillEnterForeground"]
+- ["SQ", "applicationWillResignActive"]
+- ["SQ", "applicationWillTerminate"]
+- ["SQ", "detachFromEngine"]
+- ["SQ", "detachFromEngineForRegistrar"]
+- !private ["SQ", "facebookAuth"]
+- ["SQ", "handle"]
+- ["SQ", "handleMethodCall"]
+- ["SQ", "init"]
+- !private ["SQ", "initialize"]
+- ["SQ", "register"]
+- ["SQ", "registerWithRegistrar"]
+- ["SQ", "setPluginRegistrantCallback"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "sourceApplication"]
+- !private ["SQ", "subscript"]
+- ["SQ", "userNotificationCenter"]
+- ["s30ExpressibleByDictionaryLiteralP", "Key"]
+- ["s30ExpressibleByDictionaryLiteralP", "Value"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "handle"]
+- ["21flutter_facebook_auth12FacebookAuthC", "init"]
+- !private ["So35FlutterApplicationLifeCycleDelegateP", "ApplicationDelegate"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "FacebookAuth"]
+- !private ["So35FlutterApplicationLifeCycleDelegateP", "FlutterMethodChannel"]
+- !private ["So35FlutterApplicationLifeCycleDelegateP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["So35FlutterApplicationLifeCycleDelegateP", "UIApplication"]
+- ["So35FlutterApplicationLifeCycleDelegateP", ""]
+- ["So35FlutterApplicationLifeCycleDelegateP", "application"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "applicationDidBecomeActive"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "applicationDidEnterBackground"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "applicationWillEnterForeground"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "applicationWillResignActive"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "applicationWillTerminate"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "deinit"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "detachFromEngine"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "detachFromEngineForRegistrar"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "facebookAuth"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "handle"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "handleMethodCall"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "init"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "register"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "registerWithRegistrar"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "setPluginRegistrantCallback"]
+- ["So35FlutterApplicationLifeCycleDelegateP", "userNotificationCenter"]
+- !private ["So20FlutterMethodChannelC", "init"]
+- !private ["So13FlutterPluginP", "ApplicationDelegate"]
+- ["So13FlutterPluginP", "FacebookAuth"]
+- !private ["So13FlutterPluginP", "FlutterMethodChannel"]
+- !private ["So13FlutterPluginP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["So13FlutterPluginP", "UIApplication"]
+- ["So13FlutterPluginP", ""]
+- ["So13FlutterPluginP", "application"]
+- ["So13FlutterPluginP", "applicationDidBecomeActive"]
+- ["So13FlutterPluginP", "applicationDidEnterBackground"]
+- ["So13FlutterPluginP", "applicationWillEnterForeground"]
+- ["So13FlutterPluginP", "applicationWillResignActive"]
+- ["So13FlutterPluginP", "applicationWillTerminate"]
+- ["So13FlutterPluginP", "deinit"]
+- ["So13FlutterPluginP", "detachFromEngine"]
+- ["So13FlutterPluginP", "detachFromEngineForRegistrar"]
+- ["So13FlutterPluginP", "facebookAuth"]
+- ["So13FlutterPluginP", "handle"]
+- ["So13FlutterPluginP", "handleMethodCall"]
+- ["So13FlutterPluginP", "init"]
+- ["So13FlutterPluginP", "register"]
+- ["So13FlutterPluginP", "registerWithRegistrar"]
+- ["So13FlutterPluginP", "setPluginRegistrantCallback"]
+- ["So13FlutterPluginP", "userNotificationCenter"]
+- !private ["So22FlutterPluginRegistrarP", "addApplicationDelegate"]
+- !private ["So22FlutterPluginRegistrarP", "addMethodCallDelegate"]
+- !private ["So22FlutterPluginRegistrarP", "messenger"]
+- !private ["SH", "ApplicationDelegate"]
+- ["SH", "FacebookAuth"]
+- !private ["SH", "FlutterMethodChannel"]
+- !private ["SH", "LaunchOptionsKey"]
+- ["SH", "OpenURLOptionsKey"]
+- !private ["SH", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["SH", "UIApplication"]
+- ["SH", ""]
+- !private ["SH", "annotation"]
+- ["SH", "application"]
+- ["SH", "applicationDidBecomeActive"]
+- ["SH", "applicationDidEnterBackground"]
+- ["SH", "applicationWillEnterForeground"]
+- ["SH", "applicationWillResignActive"]
+- ["SH", "applicationWillTerminate"]
+- ["SH", "detachFromEngine"]
+- ["SH", "detachFromEngineForRegistrar"]
+- !private ["SH", "facebookAuth"]
+- ["SH", "handle"]
+- ["SH", "handleMethodCall"]
+- ["SH", "init"]
+- !private ["SH", "initialize"]
+- ["SH", "register"]
+- ["SH", "registerWithRegistrar"]
+- ["SH", "setPluginRegistrantCallback"]
+- !private ["SH", "shared"]
+- !private ["SH", "sourceApplication"]
+- !private ["SH", "subscript"]
+- ["SH", "userNotificationCenter"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectC", "AnyHashable"]
+- !private ["So8NSObjectC", "ApplicationDelegate"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "FacebookAuth"]
+- ["So8NSObjectC", "FlutterMethodCall"]
+- !private ["So8NSObjectC", "FlutterMethodChannel"]
+- ["So8NSObjectC", "FlutterPluginRegistrar"]
+- ["So8NSObjectC", "FlutterResult"]
+- !private ["So8NSObjectC", "LaunchOptionsKey"]
+- ["So8NSObjectC", "OpenURLOptionsKey"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "SwiftFlutterFacebookAuthPlugin"]
+- ["So8NSObjectC", "UIApplication"]
+- ["So8NSObjectC", "URL"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "application"]
+- ["So8NSObjectC", "applicationDidBecomeActive"]
+- ["So8NSObjectC", "applicationDidEnterBackground"]
+- ["So8NSObjectC", "applicationWillEnterForeground"]
+- ["So8NSObjectC", "applicationWillResignActive"]
+- ["So8NSObjectC", "applicationWillTerminate"]
+- ["So8NSObjectC", "detachFromEngine"]
+- ["So8NSObjectC", "detachFromEngineForRegistrar"]
+- ["So8NSObjectC", "facebookAuth"]
+- ["So8NSObjectC", "handle"]
+- ["So8NSObjectC", "handleMethodCall"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "initialize"]
+- !private ["So8NSObjectC", "methodChannelWithName"]
+- ["So8NSObjectC", "register"]
+- ["So8NSObjectC", "registerWithRegistrar"]
+- ["So8NSObjectC", "setPluginRegistrantCallback"]
+- !private ["So8NSObjectC", "shared"]
+- ["So8NSObjectC", "userNotificationCenter"]
+- ["So8NSObjectP", "AnyHashable"]
+- !private ["So8NSObjectP", "ApplicationDelegate"]
+- ["So8NSObjectP", "Bool"]
+- ["So8NSObjectP", "FacebookAuth"]
+- ["So8NSObjectP", "FlutterMethodCall"]
+- !private ["So8NSObjectP", "FlutterMethodChannel"]
+- ["So8NSObjectP", "FlutterPluginRegistrar"]
+- ["So8NSObjectP", "FlutterResult"]
+- !private ["So8NSObjectP", "LaunchOptionsKey"]
+- ["So8NSObjectP", "OpenURLOptionsKey"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "SwiftFlutterFacebookAuthPlugin"]
+- ["So8NSObjectP", "UIApplication"]
+- ["So8NSObjectP", "URL"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addApplicationDelegate"]
+- !private ["So8NSObjectP", "addMethodCallDelegate"]
+- ["So8NSObjectP", "application"]
+- ["So8NSObjectP", "applicationDidBecomeActive"]
+- ["So8NSObjectP", "applicationDidEnterBackground"]
+- ["So8NSObjectP", "applicationWillEnterForeground"]
+- ["So8NSObjectP", "applicationWillResignActive"]
+- ["So8NSObjectP", "applicationWillTerminate"]
+- ["So8NSObjectP", "deinit"]
+- ["So8NSObjectP", "detachFromEngine"]
+- ["So8NSObjectP", "detachFromEngineForRegistrar"]
+- ["So8NSObjectP", "facebookAuth"]
+- ["So8NSObjectP", "handle"]
+- ["So8NSObjectP", "handleMethodCall"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "initialize"]
+- !private ["So8NSObjectP", "messenger"]
+- !private ["So8NSObjectP", "methodChannelWithName"]
+- ["So8NSObjectP", "register"]
+- ["So8NSObjectP", "registerWithRegistrar"]
+- ["So8NSObjectP", "setPluginRegistrantCallback"]
+- !private ["So8NSObjectP", "shared"]
+- ["So8NSObjectP", "userNotificationCenter"]
+- !private ["So30UIApplicationOpenURLOptionsKeya", "annotation"]
+- !private ["So30UIApplicationOpenURLOptionsKeya", "sourceApplication"]
+- !private ["SY", ""]
+- !private ["SY", "annotation"]
+- !private ["SY", "sourceApplication"]
+- !private ["ST", "Element"]
+- !private ["ST", "Iterator"]
+- ["ST", ""]
+- !private ["ST", "init"]
+- !private ["ST", "makeIterator"]
+- !private ["ST", "subscript"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "AnyHashable"]
+- !private ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "ApplicationDelegate"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "Bool"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "FacebookAuth"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "FlutterMethodCall"]
+- !private ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "FlutterMethodChannel"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "FlutterPluginRegistrar"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "FlutterResult"]
+- !private ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "String"]
+- !private ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "SwiftFlutterFacebookAuthPlugin"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "UIApplication"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "URL"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", ""]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "application"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "applicationDidBecomeActive"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "applicationDidEnterBackground"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "applicationWillEnterForeground"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "applicationWillResignActive"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "applicationWillTerminate"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "deinit"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "detachFromEngine"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "detachFromEngineForRegistrar"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "facebookAuth"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "handle"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "handleMethodCall"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "init"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "register"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "registerWithRegistrar"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "setPluginRegistrantCallback"]
+- ["21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC", "userNotificationCenter"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So13UIApplicationC", "LaunchOptionsKey"]
+- ["So13UIApplicationC", "OpenURLOptionsKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "LaunchOptionsKey"]
+- ["So30UIPasteConfigurationSupportingP", "OpenURLOptionsKey"]
+- !private ["So11UIResponderC", "LaunchOptionsKey"]
+- ["So11UIResponderC", "OpenURLOptionsKey"]
+- !private ["So30UIResponderStandardEditActionsP", "LaunchOptionsKey"]
+- ["So30UIResponderStandardEditActionsP", "OpenURLOptionsKey"]
+- !private ["So23UIUserActivityRestoringP", "LaunchOptionsKey"]
+- ["So23UIUserActivityRestoringP", "OpenURLOptionsKey"]
+- !private ["So32UNUserNotificationCenterDelegateP", "ApplicationDelegate"]
+- ["So32UNUserNotificationCenterDelegateP", "FacebookAuth"]
+- !private ["So32UNUserNotificationCenterDelegateP", "FlutterMethodChannel"]
+- !private ["So32UNUserNotificationCenterDelegateP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["So32UNUserNotificationCenterDelegateP", "UIApplication"]
+- ["So32UNUserNotificationCenterDelegateP", ""]
+- ["So32UNUserNotificationCenterDelegateP", "application"]
+- ["So32UNUserNotificationCenterDelegateP", "applicationDidBecomeActive"]
+- ["So32UNUserNotificationCenterDelegateP", "applicationDidEnterBackground"]
+- ["So32UNUserNotificationCenterDelegateP", "applicationWillEnterForeground"]
+- ["So32UNUserNotificationCenterDelegateP", "applicationWillResignActive"]
+- ["So32UNUserNotificationCenterDelegateP", "applicationWillTerminate"]
+- ["So32UNUserNotificationCenterDelegateP", "deinit"]
+- ["So32UNUserNotificationCenterDelegateP", "detachFromEngine"]
+- ["So32UNUserNotificationCenterDelegateP", "detachFromEngineForRegistrar"]
+- ["So32UNUserNotificationCenterDelegateP", "facebookAuth"]
+- ["So32UNUserNotificationCenterDelegateP", "handle"]
+- ["So32UNUserNotificationCenterDelegateP", "handleMethodCall"]
+- ["So32UNUserNotificationCenterDelegateP", "init"]
+- ["So32UNUserNotificationCenterDelegateP", "register"]
+- ["So32UNUserNotificationCenterDelegateP", "registerWithRegistrar"]
+- ["So32UNUserNotificationCenterDelegateP", "setPluginRegistrantCallback"]
+- ["So32UNUserNotificationCenterDelegateP", "userNotificationCenter"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s35_HasCustomAnyHashableRepresentationP", ""]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "annotation"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "sourceApplication"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ApplicationDelegate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "FacebookAuth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FlutterMethodChannel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "LaunchOptionsKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "OpenURLOptionsKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIApplication"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "application"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidBecomeActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidEnterBackground"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillEnterForeground"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillResignActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillTerminate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "detachFromEngine"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "detachFromEngineForRegistrar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "facebookAuth"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "handle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "handleMethodCall"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "initialize"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "register"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "registerWithRegistrar"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "setPluginRegistrantCallback"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userNotificationCenter"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ApplicationDelegate"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FacebookAuth"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FlutterMethodChannel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "LaunchOptionsKey"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "OpenURLOptionsKey"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SwiftFlutterFacebookAuthPlugin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIApplication"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "application"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "applicationDidBecomeActive"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "applicationDidEnterBackground"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "applicationWillEnterForeground"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "applicationWillResignActive"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "applicationWillTerminate"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "detachFromEngine"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "detachFromEngineForRegistrar"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "facebookAuth"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "handle"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "handleMethodCall"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "initialize"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "register"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "registerWithRegistrar"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setPluginRegistrantCallback"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "shared"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "userNotificationCenter"]
+- !private ["s21_ObjectiveCBridgeableP", "annotation"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "sourceApplication"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s20_SwiftNewtypeWrapperP", "annotation"]
+- !private ["s20_SwiftNewtypeWrapperP", "sourceApplication"]
+depends-nominal:
+- !private "So24FBSDKApplicationDelegateC"
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- "SQ"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "21flutter_facebook_auth12FacebookAuthC"
+- "So35FlutterApplicationLifeCycleDelegateP"
+- !private "So20FlutterMethodChannelC"
+- "So13FlutterPluginP"
+- !private "So22FlutterPluginRegistrarP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So30UIApplicationOpenURLOptionsKeya"
+- !private "SY"
+- "ST"
+- "21flutter_facebook_auth30SwiftFlutterFacebookAuthPluginC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So13UIApplicationC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So23UIUserActivityRestoringP"
+- "So32UNUserNotificationCenterDelegateP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/WebKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules/FBSDKLoginKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPI.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURL.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/flutter_facebook_auth/flutter_facebook_auth-umbrella.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestHTTPMethod.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKReferralCode.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKUserAgeRange.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKProfile.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventParameterName.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventName.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIProtocolType.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKFeature.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceViewControllerBase.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIResponse.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKApplicationDelegate.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnectionProviding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestProviding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWindowFinding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettingsLogging.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKTokenCaching.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKButtonImpressionTracking.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKFeatureChecking.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURLOpening.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIRequestOpening.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnection+GraphRequestConnecting.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnecting.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolving.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKApplicationObserving.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKMutableCopying.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebDialog.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLink.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettingsProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtilityProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKRandom.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAuthenticationToken.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAccessToken.h"
+- "/Users/macobuntheoun/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_auth-3.5.2/ios/Classes/FlutterFacebookAuthPlugin.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKIcon.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLocation.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkNavigation.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKShareDialogConfiguration.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConfiguration.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnection.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKImpressionTrackingButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginCodeInfo.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDynamicSocialFrameworkLoader.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKServerConfigurationProvider.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolverRequestBuilder.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKReferralManager.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManager.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLogger.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtility+AppAvailabilityChecker.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppAvailabilityChecker.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPI+URLOpener.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURLOpener.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolver.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebViewAppLinkResolver.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLoggingBehavior.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventsFlushBehavior.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKError.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestFlags.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettings.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAccessTokenProtocols.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAuthenticationTokenClaims.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKCoreKitVersions.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKConstants.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEvents.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAdvertisingTrackingStatus.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkTarget.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-Swift.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-Swift.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKCoreKit.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKReferralManagerResult.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestDataAttachment.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKMeasurementEvent.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKCoreKitImport.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIRequest.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequest.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKProfilePictureView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebDialogView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceDialogView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnectionFactory.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestFactory.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKUtility.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkUtility.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtility.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/flutter_facebook_auth.build/unextended-module.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c95836a7c570ecd61dca358da776c956"

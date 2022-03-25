@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/unextended-module.modulemap",
+    }]
+  }]
+}

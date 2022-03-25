@@ -1,0 +1,984 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FacebookAuth"
+provides-nominal:
+- "21flutter_facebook_auth12FacebookAuthC"
+provides-member:
+- ["21flutter_facebook_auth12FacebookAuthC", ""]
+provides-dynamic-lookup:
+- "finishWithError"
+- "finishWithResult"
+- "getAccessToken"
+- "getUserData"
+- "handle"
+- "login"
+- "loginManager"
+- "pendingResult"
+- "sendErrorToClient"
+- "setPendingResult"
+- "updateAutoLogAppEventsEnabled"
+depends-top-level:
+- !private "!"
+- "!="
+- !private "*"
+- "AccessToken"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "Dictionary"
+- "FacebookAuth"
+- !private "FloatLiteralType"
+- !private "FlutterError"
+- "FlutterMethodCall"
+- !private "FlutterMethodNotImplemented"
+- "FlutterResult"
+- "GraphRequest"
+- !private "Int64"
+- !private "IntegerLiteralType"
+- "LoginManager"
+- "NSDictionary"
+- "NSObject"
+- !private "Settings"
+- "String"
+- !private "StringLiteralType"
+- !private "UIApplication"
+- "UIViewController"
+- "Void"
+- !private "getAccessToken"
+- !private "getUserData"
+- !private "loginManager"
+- !private "pendingResult"
+- !private "sendErrorToClient"
+- !private "setPendingResult"
+- !private "~="
+depends-member:
+- !private ["So16FBSDKAccessTokenC", "appID"]
+- !private ["So16FBSDKAccessTokenC", "current"]
+- !private ["So16FBSDKAccessTokenC", "declinedPermissions"]
+- !private ["So16FBSDKAccessTokenC", "expirationDate"]
+- !private ["So16FBSDKAccessTokenC", "isExpired"]
+- !private ["So16FBSDKAccessTokenC", "permissions"]
+- !private ["So16FBSDKAccessTokenC", "refreshDate"]
+- !private ["So16FBSDKAccessTokenC", "tokenString"]
+- !private ["So16FBSDKAccessTokenC", "userID"]
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["s18AdditiveArithmeticP", "rounded"]
+- !private ["SK", ""]
+- !private ["SB", ""]
+- !private ["SB", "rounded"]
+- !private ["Sz", ""]
+- !private ["Sz", "init"]
+- !private ["Sz", "rounded"]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "rootViewController"]
+- !private ["s7CVarArgP", "AccessToken"]
+- !private ["s7CVarArgP", "FlutterError"]
+- !private ["s7CVarArgP", "FlutterMethodNotImplemented"]
+- !private ["s7CVarArgP", "GraphRequest"]
+- !private ["s7CVarArgP", "Int64"]
+- ["s7CVarArgP", "LoginManager"]
+- !private ["s7CVarArgP", "Settings"]
+- !private ["s7CVarArgP", "UIApplication"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "appID"]
+- !private ["s7CVarArgP", "arguments"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "declinedPermissions"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "expirationDate"]
+- !private ["s7CVarArgP", "finishWithError"]
+- !private ["s7CVarArgP", "finishWithResult"]
+- !private ["s7CVarArgP", "getAccessToken"]
+- !private ["s7CVarArgP", "getUserData"]
+- !private ["s7CVarArgP", "handle"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isAutoLogAppEventsEnabled"]
+- !private ["s7CVarArgP", "isCancelled"]
+- !private ["s7CVarArgP", "isExpired"]
+- !private ["s7CVarArgP", "logIn"]
+- !private ["s7CVarArgP", "logOut"]
+- !private ["s7CVarArgP", "login"]
+- !private ["s7CVarArgP", "loginManager"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "method"]
+- !private ["s7CVarArgP", "pendingResult"]
+- !private ["s7CVarArgP", "permissions"]
+- !private ["s7CVarArgP", "refreshDate"]
+- !private ["s7CVarArgP", "rootViewController"]
+- !private ["s7CVarArgP", "rounded"]
+- !private ["s7CVarArgP", "sendErrorToClient"]
+- !private ["s7CVarArgP", "setPendingResult"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "start"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "token"]
+- !private ["s7CVarArgP", "tokenString"]
+- !private ["s7CVarArgP", "updateAutoLogAppEventsEnabled"]
+- !private ["s7CVarArgP", "userID"]
+- !private ["Sl", ""]
+- !private ["Sl", "map"]
+- !private ["Sl", "subscript"]
+- !private ["SL", ""]
+- !private ["SL", "init"]
+- !private ["SL", "rounded"]
+- !private ["SL", "timeIntervalSince1970"]
+- !private ["s28CustomDebugStringConvertibleP", "AccessToken"]
+- !private ["s28CustomDebugStringConvertibleP", "FlutterError"]
+- !private ["s28CustomDebugStringConvertibleP", "FlutterMethodNotImplemented"]
+- !private ["s28CustomDebugStringConvertibleP", "GraphRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "Int64"]
+- ["s28CustomDebugStringConvertibleP", "LoginManager"]
+- !private ["s28CustomDebugStringConvertibleP", "Settings"]
+- !private ["s28CustomDebugStringConvertibleP", "UIApplication"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "appID"]
+- !private ["s28CustomDebugStringConvertibleP", "arguments"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "declinedPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "expirationDate"]
+- !private ["s28CustomDebugStringConvertibleP", "finishWithError"]
+- !private ["s28CustomDebugStringConvertibleP", "finishWithResult"]
+- !private ["s28CustomDebugStringConvertibleP", "getAccessToken"]
+- !private ["s28CustomDebugStringConvertibleP", "getUserData"]
+- !private ["s28CustomDebugStringConvertibleP", "handle"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isAutoLogAppEventsEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "isCancelled"]
+- !private ["s28CustomDebugStringConvertibleP", "isExpired"]
+- !private ["s28CustomDebugStringConvertibleP", "logIn"]
+- !private ["s28CustomDebugStringConvertibleP", "logOut"]
+- !private ["s28CustomDebugStringConvertibleP", "login"]
+- !private ["s28CustomDebugStringConvertibleP", "loginManager"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "method"]
+- !private ["s28CustomDebugStringConvertibleP", "pendingResult"]
+- !private ["s28CustomDebugStringConvertibleP", "permissions"]
+- !private ["s28CustomDebugStringConvertibleP", "refreshDate"]
+- !private ["s28CustomDebugStringConvertibleP", "rootViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "rounded"]
+- !private ["s28CustomDebugStringConvertibleP", "sendErrorToClient"]
+- !private ["s28CustomDebugStringConvertibleP", "setPendingResult"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "start"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s28CustomDebugStringConvertibleP", "token"]
+- !private ["s28CustomDebugStringConvertibleP", "tokenString"]
+- !private ["s28CustomDebugStringConvertibleP", "updateAutoLogAppEventsEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "userID"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "rounded"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- !private ["s23CustomStringConvertibleP", "AccessToken"]
+- !private ["s23CustomStringConvertibleP", "FlutterError"]
+- !private ["s23CustomStringConvertibleP", "FlutterMethodNotImplemented"]
+- !private ["s23CustomStringConvertibleP", "GraphRequest"]
+- !private ["s23CustomStringConvertibleP", "Int64"]
+- ["s23CustomStringConvertibleP", "LoginManager"]
+- !private ["s23CustomStringConvertibleP", "Settings"]
+- !private ["s23CustomStringConvertibleP", "UIApplication"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appID"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "arguments"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "declinedPermissions"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "expirationDate"]
+- !private ["s23CustomStringConvertibleP", "finishWithError"]
+- !private ["s23CustomStringConvertibleP", "finishWithResult"]
+- !private ["s23CustomStringConvertibleP", "getAccessToken"]
+- !private ["s23CustomStringConvertibleP", "getUserData"]
+- !private ["s23CustomStringConvertibleP", "handle"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isAutoLogAppEventsEnabled"]
+- !private ["s23CustomStringConvertibleP", "isCancelled"]
+- !private ["s23CustomStringConvertibleP", "isExpired"]
+- !private ["s23CustomStringConvertibleP", "logIn"]
+- !private ["s23CustomStringConvertibleP", "logOut"]
+- !private ["s23CustomStringConvertibleP", "login"]
+- !private ["s23CustomStringConvertibleP", "loginManager"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "method"]
+- !private ["s23CustomStringConvertibleP", "pendingResult"]
+- !private ["s23CustomStringConvertibleP", "permissions"]
+- !private ["s23CustomStringConvertibleP", "refreshDate"]
+- !private ["s23CustomStringConvertibleP", "rootViewController"]
+- !private ["s23CustomStringConvertibleP", "rounded"]
+- !private ["s23CustomStringConvertibleP", "sendErrorToClient"]
+- !private ["s23CustomStringConvertibleP", "setPendingResult"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "start"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s23CustomStringConvertibleP", "token"]
+- !private ["s23CustomStringConvertibleP", "tokenString"]
+- !private ["s23CustomStringConvertibleP", "updateAutoLogAppEventsEnabled"]
+- !private ["s23CustomStringConvertibleP", "userID"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "rounded"]
+- !private ["Se", "subscript"]
+- !private ["Se", "timeIntervalSince1970"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["Sd", "rounded"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "rounded"]
+- !private ["SE", "subscript"]
+- !private ["SE", "timeIntervalSince1970"]
+- !private ["SQ", "AccessToken"]
+- !private ["SQ", "FlutterError"]
+- !private ["SQ", "FlutterMethodNotImplemented"]
+- !private ["SQ", "GraphRequest"]
+- !private ["SQ", "Int64"]
+- ["SQ", "LoginManager"]
+- !private ["SQ", "Settings"]
+- !private ["SQ", "UIApplication"]
+- ["SQ", ""]
+- !private ["SQ", "appID"]
+- !private ["SQ", "arguments"]
+- !private ["SQ", "current"]
+- !private ["SQ", "declinedPermissions"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "expirationDate"]
+- !private ["SQ", "finishWithError"]
+- !private ["SQ", "finishWithResult"]
+- !private ["SQ", "getAccessToken"]
+- !private ["SQ", "getUserData"]
+- !private ["SQ", "handle"]
+- ["SQ", "init"]
+- !private ["SQ", "isAutoLogAppEventsEnabled"]
+- !private ["SQ", "isCancelled"]
+- !private ["SQ", "isExpired"]
+- !private ["SQ", "logIn"]
+- !private ["SQ", "logOut"]
+- !private ["SQ", "login"]
+- !private ["SQ", "loginManager"]
+- !private ["SQ", "map"]
+- !private ["SQ", "method"]
+- !private ["SQ", "name"]
+- !private ["SQ", "pendingResult"]
+- !private ["SQ", "permissions"]
+- !private ["SQ", "refreshDate"]
+- !private ["SQ", "rootViewController"]
+- !private ["SQ", "rounded"]
+- !private ["SQ", "sendErrorToClient"]
+- !private ["SQ", "setPendingResult"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "start"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["SQ", "token"]
+- !private ["SQ", "tokenString"]
+- !private ["SQ", "updateAutoLogAppEventsEnabled"]
+- !private ["SQ", "userID"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "Key"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "Value"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "name"]
+- !private ["s25ExpressibleByFloatLiteralP", ""]
+- !private ["s25ExpressibleByFloatLiteralP", "rounded"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "rounded"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "name"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "name"]
+- ["21flutter_facebook_auth12FacebookAuthC", "AccessToken"]
+- ["21flutter_facebook_auth12FacebookAuthC", "Bool"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "FlutterError"]
+- ["21flutter_facebook_auth12FacebookAuthC", "FlutterMethodCall"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "FlutterMethodNotImplemented"]
+- ["21flutter_facebook_auth12FacebookAuthC", "FlutterResult"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "GraphRequest"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "Int64"]
+- ["21flutter_facebook_auth12FacebookAuthC", "LoginManager"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "NSDictionary"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "Settings"]
+- ["21flutter_facebook_auth12FacebookAuthC", "String"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "UIApplication"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "UIViewController"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "Void"]
+- ["21flutter_facebook_auth12FacebookAuthC", ""]
+- ["21flutter_facebook_auth12FacebookAuthC", "deinit"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "finishWithError"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "finishWithResult"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "getAccessToken"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "getUserData"]
+- ["21flutter_facebook_auth12FacebookAuthC", "handle"]
+- ["21flutter_facebook_auth12FacebookAuthC", "init"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "login"]
+- ["21flutter_facebook_auth12FacebookAuthC", "loginManager"]
+- ["21flutter_facebook_auth12FacebookAuthC", "pendingResult"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "sendErrorToClient"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "setPendingResult"]
+- !private ["21flutter_facebook_auth12FacebookAuthC", "updateAutoLogAppEventsEnabled"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s17FixedWidthIntegerP", "rounded"]
+- !private ["SF", ""]
+- !private ["SF", "rounded"]
+- !private ["So12FlutterErrorC", "init"]
+- !private ["So17FlutterMethodCallC", "arguments"]
+- !private ["So17FlutterMethodCallC", "method"]
+- !private ["So17FBSDKGraphRequestC", "init"]
+- !private ["So17FBSDKGraphRequestC", "start"]
+- !private ["So17FBSDKGraphRequestP", "init"]
+- !private ["So17FBSDKGraphRequestP", "start"]
+- !private ["SH", "AccessToken"]
+- !private ["SH", "FlutterError"]
+- !private ["SH", "FlutterMethodNotImplemented"]
+- !private ["SH", "GraphRequest"]
+- !private ["SH", "Int64"]
+- ["SH", "LoginManager"]
+- !private ["SH", "Settings"]
+- !private ["SH", "UIApplication"]
+- ["SH", ""]
+- !private ["SH", "appID"]
+- !private ["SH", "arguments"]
+- !private ["SH", "current"]
+- !private ["SH", "declinedPermissions"]
+- !private ["SH", "delegate"]
+- !private ["SH", "expirationDate"]
+- !private ["SH", "finishWithError"]
+- !private ["SH", "finishWithResult"]
+- !private ["SH", "getAccessToken"]
+- !private ["SH", "getUserData"]
+- !private ["SH", "handle"]
+- ["SH", "init"]
+- !private ["SH", "isAutoLogAppEventsEnabled"]
+- !private ["SH", "isCancelled"]
+- !private ["SH", "isExpired"]
+- !private ["SH", "logIn"]
+- !private ["SH", "logOut"]
+- !private ["SH", "login"]
+- !private ["SH", "loginManager"]
+- !private ["SH", "map"]
+- !private ["SH", "method"]
+- !private ["SH", "name"]
+- !private ["SH", "pendingResult"]
+- !private ["SH", "permissions"]
+- !private ["SH", "refreshDate"]
+- !private ["SH", "rootViewController"]
+- !private ["SH", "rounded"]
+- !private ["SH", "sendErrorToClient"]
+- !private ["SH", "setPendingResult"]
+- !private ["SH", "shared"]
+- !private ["SH", "start"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeIntervalSince1970"]
+- !private ["SH", "token"]
+- !private ["SH", "tokenString"]
+- !private ["SH", "updateAutoLogAppEventsEnabled"]
+- !private ["SH", "userID"]
+- !private ["Si", "rounded"]
+- !private ["s5Int64V", "init"]
+- ["So17FBSDKLoginManagerC", "init"]
+- !private ["So17FBSDKLoginManagerC", "logIn"]
+- !private ["So17FBSDKLoginManagerC", "logOut"]
+- !private ["So28FBSDKLoginManagerLoginResultC", "isCancelled"]
+- !private ["So28FBSDKLoginManagerLoginResultC", "token"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "rounded"]
+- !private ["s10MirrorPathP", "rounded"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "appID"]
+- !private ["So8NSCodingP", "current"]
+- !private ["So8NSCodingP", "declinedPermissions"]
+- !private ["So8NSCodingP", "expirationDate"]
+- !private ["So8NSCodingP", "isExpired"]
+- !private ["So8NSCodingP", "permissions"]
+- !private ["So8NSCodingP", "refreshDate"]
+- !private ["So8NSCodingP", "rootViewController"]
+- !private ["So8NSCodingP", "tokenString"]
+- !private ["So8NSCodingP", "userID"]
+- !private ["So9NSCopyingP", "appID"]
+- !private ["So9NSCopyingP", "current"]
+- !private ["So9NSCopyingP", "declinedPermissions"]
+- !private ["So9NSCopyingP", "expirationDate"]
+- !private ["So9NSCopyingP", "isExpired"]
+- !private ["So9NSCopyingP", "permissions"]
+- !private ["So9NSCopyingP", "refreshDate"]
+- !private ["So9NSCopyingP", "tokenString"]
+- !private ["So9NSCopyingP", "userID"]
+- ["So8NSObjectC", "AccessToken"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "FlutterError"]
+- ["So8NSObjectC", "FlutterMethodCall"]
+- !private ["So8NSObjectC", "FlutterMethodNotImplemented"]
+- ["So8NSObjectC", "FlutterResult"]
+- !private ["So8NSObjectC", "GraphRequest"]
+- !private ["So8NSObjectC", "Int64"]
+- ["So8NSObjectC", "LoginManager"]
+- !private ["So8NSObjectC", "NSDictionary"]
+- !private ["So8NSObjectC", "Settings"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIApplication"]
+- !private ["So8NSObjectC", "UIViewController"]
+- !private ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "appID"]
+- !private ["So8NSObjectC", "arguments"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "declinedPermissions"]
+- !private ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "errorWithCode"]
+- !private ["So8NSObjectC", "expirationDate"]
+- ["So8NSObjectC", "finishWithError"]
+- ["So8NSObjectC", "finishWithResult"]
+- ["So8NSObjectC", "getAccessToken"]
+- ["So8NSObjectC", "getUserData"]
+- ["So8NSObjectC", "handle"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isAutoLogAppEventsEnabled"]
+- !private ["So8NSObjectC", "isCancelled"]
+- !private ["So8NSObjectC", "isExpired"]
+- !private ["So8NSObjectC", "logIn"]
+- !private ["So8NSObjectC", "logInWithPermissions"]
+- !private ["So8NSObjectC", "logInWithURL"]
+- !private ["So8NSObjectC", "logOut"]
+- ["So8NSObjectC", "login"]
+- ["So8NSObjectC", "loginManager"]
+- !private ["So8NSObjectC", "method"]
+- ["So8NSObjectC", "pendingResult"]
+- !private ["So8NSObjectC", "permissions"]
+- !private ["So8NSObjectC", "refreshDate"]
+- !private ["So8NSObjectC", "rootViewController"]
+- ["So8NSObjectC", "sendErrorToClient"]
+- ["So8NSObjectC", "setPendingResult"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "start"]
+- !private ["So8NSObjectC", "startWithCompletion"]
+- !private ["So8NSObjectC", "startWithCompletionHandler"]
+- !private ["So8NSObjectC", "token"]
+- !private ["So8NSObjectC", "tokenString"]
+- ["So8NSObjectC", "updateAutoLogAppEventsEnabled"]
+- !private ["So8NSObjectC", "userID"]
+- ["So8NSObjectP", "AccessToken"]
+- ["So8NSObjectP", "Bool"]
+- !private ["So8NSObjectP", "FlutterError"]
+- ["So8NSObjectP", "FlutterMethodCall"]
+- !private ["So8NSObjectP", "FlutterMethodNotImplemented"]
+- ["So8NSObjectP", "FlutterResult"]
+- !private ["So8NSObjectP", "GraphRequest"]
+- !private ["So8NSObjectP", "Int64"]
+- ["So8NSObjectP", "LoginManager"]
+- !private ["So8NSObjectP", "NSDictionary"]
+- !private ["So8NSObjectP", "Settings"]
+- ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "UIApplication"]
+- !private ["So8NSObjectP", "UIViewController"]
+- !private ["So8NSObjectP", "Void"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "appID"]
+- !private ["So8NSObjectP", "arguments"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "declinedPermissions"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "errorWithCode"]
+- !private ["So8NSObjectP", "expirationDate"]
+- ["So8NSObjectP", "finishWithError"]
+- ["So8NSObjectP", "finishWithResult"]
+- ["So8NSObjectP", "getAccessToken"]
+- ["So8NSObjectP", "getUserData"]
+- ["So8NSObjectP", "handle"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isAutoLogAppEventsEnabled"]
+- !private ["So8NSObjectP", "isCancelled"]
+- !private ["So8NSObjectP", "isExpired"]
+- !private ["So8NSObjectP", "logIn"]
+- !private ["So8NSObjectP", "logInWithPermissions"]
+- !private ["So8NSObjectP", "logInWithURL"]
+- !private ["So8NSObjectP", "logOut"]
+- ["So8NSObjectP", "login"]
+- ["So8NSObjectP", "loginManager"]
+- !private ["So8NSObjectP", "method"]
+- ["So8NSObjectP", "pendingResult"]
+- !private ["So8NSObjectP", "permissions"]
+- !private ["So8NSObjectP", "refreshDate"]
+- !private ["So8NSObjectP", "rootViewController"]
+- ["So8NSObjectP", "sendErrorToClient"]
+- ["So8NSObjectP", "setPendingResult"]
+- !private ["So8NSObjectP", "shared"]
+- !private ["So8NSObjectP", "start"]
+- !private ["So8NSObjectP", "startWithCompletion"]
+- !private ["So8NSObjectP", "startWithCompletionHandler"]
+- !private ["So8NSObjectP", "token"]
+- !private ["So8NSObjectP", "tokenString"]
+- ["So8NSObjectP", "updateAutoLogAppEventsEnabled"]
+- !private ["So8NSObjectP", "userID"]
+- !private ["So8NSObjectP", "window"]
+- !private ["So14NSSecureCodingP", "appID"]
+- !private ["So14NSSecureCodingP", "current"]
+- !private ["So14NSSecureCodingP", "declinedPermissions"]
+- !private ["So14NSSecureCodingP", "expirationDate"]
+- !private ["So14NSSecureCodingP", "isExpired"]
+- !private ["So14NSSecureCodingP", "permissions"]
+- !private ["So14NSSecureCodingP", "refreshDate"]
+- !private ["So14NSSecureCodingP", "tokenString"]
+- !private ["So14NSSecureCodingP", "userID"]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- !private ["Sj", "rounded"]
+- !private ["12FBSDKCoreKit10PermissionO", "name"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["s10SIMDScalarP", "rounded"]
+- !private ["ST", ""]
+- !private ["ST", "map"]
+- !private ["ST", "subscript"]
+- !private ["Sh", "map"]
+- !private ["s10SetAlgebraP", "map"]
+- !private ["So13FBSDKSettingsC", "isAutoLogAppEventsEnabled"]
+- !private ["So13FBSDKSettingsP", "isAutoLogAppEventsEnabled"]
+- !private ["SZ", "init"]
+- !private ["SZ", "rounded"]
+- !private ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s13SignedNumericP", "rounded"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- !private ["Sx", "rounded"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "rounded"]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "rootViewController"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "rootViewController"]
+- !private ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "rootViewController"]
+- !private ["So13UIApplicationC", "delegate"]
+- !private ["So13UIApplicationC", "shared"]
+- !private ["So21UIApplicationDelegateP", "window"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "rootViewController"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "rootViewController"]
+- !private ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "rootViewController"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "rootViewController"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "rootViewController"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "rootViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "rootViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "shared"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So11UIResponderC", "rootViewController"]
+- !private ["So11UIResponderC", "shared"]
+- !private ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "rootViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "shared"]
+- !private ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "rootViewController"]
+- !private ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "rootViewController"]
+- !private ["So23UIUserActivityRestoringP", "shared"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "rootViewController"]
+- !private ["So8UIWindowC", "rootViewController"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "rounded"]
+- !private ["s22_CVarArgPassedAsDoubleP", "rounded"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "rounded"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "rounded"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "rounded"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "rounded"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AccessToken"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FlutterError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FlutterMethodNotImplemented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GraphRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int64"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "LoginManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Settings"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIApplication"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arguments"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "declinedPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "expirationDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "finishWithError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "finishWithResult"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getAccessToken"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getUserData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "handle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isAutoLogAppEventsEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isCancelled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isExpired"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "logIn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "logOut"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "login"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loginManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "method"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pendingResult"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "permissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "refreshDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rootViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sendErrorToClient"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setPendingResult"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "start"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "token"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tokenString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateAutoLogAppEventsEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userID"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AccessToken"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FlutterError"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FlutterMethodNotImplemented"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "GraphRequest"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Int64"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "LoginManager"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Settings"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIApplication"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "appID"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "arguments"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "current"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "declinedPermissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "expirationDate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "finishWithError"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "finishWithResult"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "getAccessToken"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "getUserData"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "handle"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isAutoLogAppEventsEnabled"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isCancelled"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isExpired"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "logIn"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "logOut"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "login"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "loginManager"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "method"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pendingResult"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "permissions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "refreshDate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "rootViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sendErrorToClient"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setPendingResult"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "shared"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "start"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "token"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tokenString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "updateAutoLogAppEventsEnabled"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "userID"]
+- !private ["s21_ObjectiveCBridgeableP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "rounded"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "rootViewController"]
+- !private ["10Accelerate34vDSP_FloatingPointBiquadFilterableP", "rounded"]
+- !private ["10Accelerate29vDSP_FloatingPointConvertableP", "rounded"]
+- !private ["10Accelerate46vDSP_FloatingPointDiscreteFourierTransformableP", "rounded"]
+- !private ["10Accelerate29vDSP_FloatingPointGeneratableP", "rounded"]
+depends-nominal:
+- !private "So16FBSDKAccessTokenC"
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "SB"
+- !private "Sz"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "21flutter_facebook_auth12FacebookAuthC"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- !private "So12FlutterErrorC"
+- !private "So17FlutterMethodCallC"
+- !private "So17FBSDKGraphRequestC"
+- !private "So17FBSDKGraphRequestP"
+- "SH"
+- !private "Si"
+- !private "s5Int64V"
+- "So17FBSDKLoginManagerC"
+- !private "So28FBSDKLoginManagerLoginResultC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sj"
+- !private "12FBSDKCoreKit10PermissionO"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "Sh"
+- !private "s10SetAlgebraP"
+- !private "So13FBSDKSettingsC"
+- !private "So13FBSDKSettingsP"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So13UIApplicationC"
+- !private "So21UIApplicationDelegateP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "So8UIWindowC"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+- !private "10Accelerate34vDSP_FloatingPointBiquadFilterableP"
+- !private "10Accelerate29vDSP_FloatingPointConvertableP"
+- !private "10Accelerate46vDSP_FloatingPointDiscreteFourierTransformableP"
+- !private "10Accelerate29vDSP_FloatingPointGeneratableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/WebKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules/FBSDKLoginKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPI.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURL.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/flutter_facebook_auth/flutter_facebook_auth-umbrella.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestHTTPMethod.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKReferralCode.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKUserAgeRange.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKProfile.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventParameterName.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventName.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIProtocolType.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKFeature.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceViewControllerBase.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIResponse.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKApplicationDelegate.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnectionProviding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestProviding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWindowFinding.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettingsLogging.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKTokenCaching.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKButtonImpressionTracking.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKFeatureChecking.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURLOpening.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIRequestOpening.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnection+GraphRequestConnecting.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnecting.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolving.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKApplicationObserving.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKMutableCopying.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebDialog.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLink.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettingsProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtilityProtocol.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKRandom.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAuthenticationToken.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAccessToken.h"
+- "/Users/macobuntheoun/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_auth-3.5.2/ios/Classes/FlutterFacebookAuthPlugin.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKIcon.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLocation.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkNavigation.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKShareDialogConfiguration.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConfiguration.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnection.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKImpressionTrackingButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginCodeInfo.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDynamicSocialFrameworkLoader.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKServerConfigurationProvider.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolverRequestBuilder.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKReferralManager.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManager.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLogger.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtility+AppAvailabilityChecker.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppAvailabilityChecker.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPI+URLOpener.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKURLOpener.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkResolver.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebViewAppLinkResolver.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKLoggingBehavior.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEventsFlushBehavior.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKError.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestFlags.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKSettings.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAccessTokenProtocols.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAuthenticationTokenClaims.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKCoreKitVersions.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKConstants.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppEvents.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAdvertisingTrackingStatus.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkTarget.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-Swift.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-Swift.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKCoreKit.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKReferralManagerResult.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestDataAttachment.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKMeasurementEvent.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKCoreKitImport.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKBridgeAPIRequest.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequest.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKProfilePictureView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKWebDialogView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKDeviceDialogView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestConnectionFactory.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKGraphRequestFactory.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKUtility.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKAppLinkUtility.h"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/include/FBSDKInternalUtility.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/flutter_facebook_auth.build/unextended-module.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+- "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/build/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap"
+- "/Users/macobuntheoun/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "814e01a8fb6e74b4bba2a130922b8b35"

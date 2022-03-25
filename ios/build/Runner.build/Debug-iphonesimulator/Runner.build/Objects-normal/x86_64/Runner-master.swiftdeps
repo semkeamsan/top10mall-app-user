@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "1634032db7b240b769c7e1862e498424"
+build_time: [1647665636, 205777000]
+inputs:
+  "/Users/macobuntheoun/Documents/MobileApp/NewClone/kmo-app-user/ios/Runner/AppDelegate.swift": [1647663715, 942361201]
